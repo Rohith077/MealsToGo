@@ -19,4 +19,3 @@ const styles = StyleSheet.create({
   },
 });
 
-// 'https://github.com/Rohith077/MealsToGo.git/'
